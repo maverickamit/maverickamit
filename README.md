@@ -1,7 +1,7 @@
-
+### Hi there 👋
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 
- I am a Full Stack JavaScript developer working as a Freelancer.  
+I am a Full Stack JavaScript developer working as a Freelancer.  
 
 #### 📫 Contact Me ✉️ [Email](mailto:amitdgpghosh@gmail.com) 
 
