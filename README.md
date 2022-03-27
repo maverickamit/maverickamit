@@ -3,12 +3,14 @@
 
 I am a full stack React and Node developer who is interested in working with Blockchain and DApps. I can create Decentralized Apps on Ethereum Blockchain using React and Web3.js for Front end.
 
-#### Tech Stack:
+#### ⚒ Tech Stack:
 **Blockchain:** Solidity, Metamask, Ganache, Hardhat, Truffle, Remix, OpenZeppelin, ERC-20 
 
 **Front End:**  HTML, CSS, **JavaScript**, **TypeScript**, **Material UI**, MobX, **React**, **React-Router**, Reach-Router, Web3.js
 
 **Back End:** Node, Express, PostgreSQL, MongoDB, Mongoose, Bcrypt, JsonWebToken
+
+
 
 #### 📫 Contact Me ✉️ [Email](mailto:amitdgpghosh@gmail.com) 
 
