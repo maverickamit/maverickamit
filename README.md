@@ -1,38 +1,32 @@
-### Hi there 👋
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+# Hi, I’m Amit 👋
 
-Hey everyone! I'm a full-stack developer with 5+ years of experience, primarily working with startups. My expertise lies in React, Node, and Python. Recently, I’ve been involved in building an AI-based software product, leveraging **LangChain** and **Pydantic AI** for LLM API integrations.
+Product engineer based in Bengaluru, India. I build full-stack applications and AI features, working across interfaces, backend systems, and the decisions that turn an idea into a useful product.
 
-I specialize in developing scalable applications end‑to‑end — from clean, responsive UIs to robust backend systems and AI‑powered features.
+I’m currently a **Founding Engineer at Jurisphere.ai**, where I joined as the first engineering hire. Previously, I worked with startups and small teams as a freelance and part-time developer across fintech, compliance, and Web3.
 
----
+### What I work on
 
-## ⚒ Tech Stack
+At Jurisphere, I build AI-assisted legal research, document analysis, and drafting tools across web, mobile, and Microsoft Word. My work spans React interfaces, Python services, document processing, search, and LLM integrations.
 
-### **Frontend:**
+I enjoy working closely with small teams, figuring out what matters, and owning features from the first conversation through production.
 
-* **React**, **Next.js**, **TypeScript**, **JavaScript**, **Tailwind CSS**, Material UI, MobX, React-Router, Reach-Router
+### Stack & engineering focus
 
-### **Backend:**
+- **AI & agents:** Pydantic AI, LangChain, tool calling, structured outputs, streaming responses
+- **Retrieval & document processing:** RAG, embeddings, document chunking, OCR, vector and hybrid search
+- **Data & search:** PostgreSQL, MongoDB, Redis, Typesense, Turbopuffer
+- **Backend & workflows:** Python, FastAPI, Node.js, background jobs, task orchestration
+- **Frontend & mobile:** TypeScript, React, Next.js, React Native, Tailwind CSS
+- **Integrations & analytics:** Stripe, Plaid, PostHog, Microsoft Word add-ins, Google Drive, SharePoint
 
-* **Node.js** (Express, Fastify), **Python** (FastAPI)
-* PostgreSQL, MongoDB, Mongoose
-* Bcrypt, JsonWebToken
+### Selected projects
 
-### **AI & LLM Integrations:**
+- **[Chatbot Flow Builder](https://github.com/maverickamit/chatbot-flow-builder)** — A visual conversation editor with draggable nodes, connections, and message editing. Built with React and React Flow.
+- **[Aegis](https://github.com/0xAegis/frontend)** — A decentralized creator-support platform. Contributed frontend and smart contracts as lead developer. Selected among the top 10 projects at Ethernals @ ETHIndia.
+- **[GiftBox](https://github.com/0xGiftBox/webapp)** — A crowdfunding platform built for the Tron Grand Hackathon. Developed most of the frontend using Next.js and Mantine.
 
-* **LangChain**, **Pydantic AI**
-* LLM API integrations
-* Building AI‑powered applications
+### Get in touch
 
-### **Payments:**
+Open to freelance, part-time, and full-time product engineering opportunities.
 
-* **Stripe API**, custom checkout flows
-
----
-
-
-#### 📫 Contact Me ✉️ [Email](mailto:amitdgpghosh@gmail.com) 
-
-[![](https://img.shields.io/badge/-@philomathamit-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/philomathamit)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=bio.link&url=https%3A%2F%2Fxlbd.me)](https://bio.link/amitghosh)
+[Portfolio](https://amit-ghosh.com) · [LinkedIn](https://www.linkedin.com/in/amitkrghosh/) · [Email](mailto:amitdgpghosh@gmail.com)
